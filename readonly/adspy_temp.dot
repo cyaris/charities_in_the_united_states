@@ -23,7 +23,7 @@ node [shape=box, style="filled", color="black"] ;
 9 -> 10 ;
 11 [label="samples = 35\nvalue = [27, 8]\nclass = 1", fillcolor="#e58139b3"] ;
 9 -> 11 ;
-12 [label="compensation_leader_expense_percent <= 7.005\nsamples = 2176\nvalue = [794, 1382]\nclass = 0", fillcolor="#399de56c"] ;
+12 [label="comp_leader_expense_pct <= 7.005\nsamples = 2176\nvalue = [794, 1382]\nclass = 0", fillcolor="#399de56c"] ;
 8 -> 12 ;
 13 [label="samples = 2016\nvalue = [759, 1257]\nclass = 0", fillcolor="#399de565"] ;
 12 -> 13 ;
